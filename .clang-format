@@ -17,3 +17,4 @@ AlignTrailingComments:
 
 AllowShortBlocksOnASingleLine: Empty
 BreakBeforeBraces: Mozilla
+ColumnLimit: 120
